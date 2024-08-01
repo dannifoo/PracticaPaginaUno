@@ -1,0 +1,31 @@
+.contenedorMenu{
+    display: flex;
+    justify-content: space-around;
+}
+.contenedor1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.contenedortitulo{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.contenedorLista{
+    display: flex;
+    justify-content:flex-end;
+}
+.contenedor2{
+    display: flex;
+    justify-content: space-between;
+}
+.contenedor3{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.contenedor4{
+    display: flex;
+    justify-content: space-around;
+}
