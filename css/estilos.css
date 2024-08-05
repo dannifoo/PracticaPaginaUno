@@ -46,7 +46,46 @@
     height: 100%;
 }
 .Imagen_1{
-    background-image: url(url);
+    background-image:url(../Imagenes/Imagen1.jpeg);
     width: 300px;
-    height: 200px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    justify-content:center;
+    align-items:flex-end;
+}
+.Imagen_2{
+    background-image:url(../Imagenes/Imagen2.jpeg);
+    width: 300px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    justify-content:center;
+    align-items:flex-end;
+}
+.Imagen_3{
+    background-image:url(../Imagenes/Imagen3.jpeg);
+    width: 300px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    justify-content:center;
+    align-items:flex-end;
+}
+.Imagen_4{
+    background-image:url(../Imagenes/Imagen4.jpeg);
+    width: 300px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    justify-content:center;
+    align-items:flex-end;
 }
