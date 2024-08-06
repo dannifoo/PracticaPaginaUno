@@ -20,7 +20,9 @@
     display: flex;
     justify-content:flex-end;
     color: white;
-    list-style:none;
+}
+ul{
+    list-style: none;
 }
 .contenedor2{
     display: flex;
