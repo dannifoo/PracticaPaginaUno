@@ -14,11 +14,13 @@
     justify-content: flex-start;
     flex-direction: column;
     color: white;
+    font-size: large;
 }
 .contenedorLista{
     display: flex;
     justify-content:flex-end;
     color: white;
+    list-style:none;
 }
 .contenedor2{
     display: flex;
@@ -30,6 +32,7 @@
     align-items: center;
     flex-direction: column;
     color: white;
+    font-size: larger;
 }
 .contenedor4{
     display: flex;
