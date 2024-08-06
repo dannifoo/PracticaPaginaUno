@@ -62,10 +62,10 @@ ul{
     color: white;
 }
 .contenedor5{
-    display: flex;
     color: white;
     flex-direction: column;
     width: fit-content;
+    justify-content: space-between;
 }
 .Imagen_1{
     display: flex;
@@ -117,4 +117,9 @@ ul{
 }
 body{
     background-color: #161815;
+}
+.videos{
+    width: 5;
+    height: 5;
+    
 }
