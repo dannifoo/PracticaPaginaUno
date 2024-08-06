@@ -68,6 +68,9 @@ ul{
     justify-content: space-between;
     padding: 0px;
 }
+.boton{
+    justify-content: flex-end;
+}
 .contenedorsubt{
     display: flex;
     justify-content: flex-start;
@@ -75,7 +78,7 @@ ul{
 }
 .videos{
     display: flex;
-    flex-direction: row;
+    justify-content:flex-end;
 }
 .Imagen_1{
     display: flex;
